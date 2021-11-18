@@ -1,3 +1,5 @@
+Basit bir cc generator'ü.
+
 # Setup
 
  - [x] **What To Do;**
