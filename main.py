@@ -48,7 +48,7 @@ def generateEXP():
 	yıl = random.randint(21,35)
 	if ay < 10:
 		ay = f"0{ay}"
-	return f"{ay}/{yıl}"
+	return f"{ay}|{yıl}"
 
 
 cart_type = input("Cart tipini secmelisin. (visa/master) => ").lower()
